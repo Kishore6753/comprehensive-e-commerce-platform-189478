@@ -1,1 +1,3 @@
-# comprehensive-e-commerce-platform-189478
+# Project Repository
+
+This is the initial README file for the project.
